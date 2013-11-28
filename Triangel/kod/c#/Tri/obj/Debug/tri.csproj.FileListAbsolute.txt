@@ -1,0 +1,10 @@
+C:\Users\sr222hn\Desktop\tri1\bin\Debug\tri1.exe.config
+C:\Users\sr222hn\Desktop\tri1\bin\Debug\tri1.exe
+C:\Users\sr222hn\Desktop\tri1\bin\Debug\tri1.pdb
+C:\Users\sr222hn\Desktop\tri1\obj\Debug\tri1.exe
+C:\Users\sr222hn\Desktop\tri1\obj\Debug\tri1.pdb
+C:\Users\sr222hn\Desktop\Tri\bin\Debug\tri1.exe.config
+C:\Users\sr222hn\Desktop\Tri\obj\Debug\tri1.exe
+C:\Users\sr222hn\Desktop\Tri\obj\Debug\tri1.pdb
+C:\Users\sr222hn\Desktop\Tri\bin\Debug\tri1.exe
+C:\Users\sr222hn\Desktop\Tri\bin\Debug\tri1.pdb
